@@ -44,7 +44,7 @@ public class AdminList extends AdministrationSectionExt {
 		Map<String, String> map = new HashMap<String, String>();
 		
 		map.put("module/aiccuredataimport/aiccuredataimport.form", "aiccuredataimport.title");
-		
+		map.put("module/aiccuredataimport/addIds.form", "aiccuredataimport.addIds");
 		return map;
 	}
 	
